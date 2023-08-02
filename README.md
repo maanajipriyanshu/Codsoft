@@ -1,5 +1,5 @@
 # Codsoft
-Codsoft Intership
+Codsoft Internship
 
 
 To Do List:
