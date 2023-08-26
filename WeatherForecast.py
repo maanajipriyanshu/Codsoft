@@ -57,7 +57,7 @@ def display_weather():
         messagebox.showerror("Error", "Please enter a city name or zip code.")
         return
 
-    api_key = "1c14cd95652e24f32b024362421b9c0b"  
+    api_key = "Your Api Key"  
     data = get_weather_data(api_key, location)
     weather_info = extract_weather_info(data)
 
